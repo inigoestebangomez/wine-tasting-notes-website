@@ -68,11 +68,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/favicon.ico" },
-      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
-      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+      { url: "/Wine_Tasting_Notes_logo_.png" },
     ],
-    apple: [{ url: "/apple-icon.png" }],
+    apple: [{ url: "/Wine_Tasting_Notes_logo_.png" }],
   },
   manifest: "/site.webmanifest",
   robots: {
